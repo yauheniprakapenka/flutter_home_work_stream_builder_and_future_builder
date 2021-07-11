@@ -3,7 +3,7 @@
 
 <br>
 
-:clipboard:&nbsp;**Описание домашнего задания**
+:clipboard:&nbsp;&nbsp;**Описание домашнего задания**
 
 ---
 
@@ -19,7 +19,7 @@ StreamBuilder
 
 <br>
 
-:triangular_ruler:&nbsp;**Критерии выполнения**
+:triangular_ruler:&nbsp;&nbsp;**Критерии выполнения**
 
 ---
 
@@ -29,21 +29,15 @@ StreamBuilder
 
 <br>
 
-:pencil2:&nbsp;**Выполнение**
+:pencil2:&nbsp;&nbsp;**Выполнение**
 
 ---
 
-Приложение разработано на версии:
+Приложение выполнено на версии:
 
 Flutter: v2.2.3
 <br>
 Dart: v3.13.3
 <br>
-
-<br>
-
-:art:&nbsp;**Демонстрация выполненного задания**:
-
----
 
 <img src="files/demo.gif" width=200>
