@@ -8,7 +8,7 @@
 ---
 
 Запустить приложение в браузере:
-- https://yauheniprakapenka.github.io/flutter_painter
+- https://yauheniprakapenka.github.io/flutter_paint/
 
 ### Видео
 ---
